@@ -1,3 +1,7 @@
+'use strict';
+
+require('dotenv').config();
+
 const QServer = require('@nmq/q/server');
 
 QServer.start();
