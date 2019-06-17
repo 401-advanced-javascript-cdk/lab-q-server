@@ -1,0 +1,23 @@
+{
+  "name": "lab-q-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-cdk/lab-q-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-cdk/lab-q-server/issues"
+  },
+  "dependencies": {
+    "@nmq/q": "^1.0.3"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-cdk/lab-q-server#readme"
+}
